@@ -12,5 +12,12 @@ I'm excited to meet and network with like minds, collaborate on meaningful proje
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
-<img src="https://techstack-generator.vercel.app/sap-icon.svg" width="50" height="50" alt="Kubernetes" />
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sixtus62&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed7100&layout=compact&langs_count=6&theme=dark&bg_color=000000&title_color=00ffff&text_color=ffffff&hide=Jupyter Notebook" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed7100&theme=black-ice&background=000000&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+</p>
 
