@@ -8,3 +8,7 @@ I'm excited to meet and network with like minds, collaborate on meaningful proje
  <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=03055B&center=true&vCenter=true&width=500&lines=Cloud+DevOps+Engineer;Cybersecurity+Engineer;Technical+Support+Specialist" alt="Typing animation" />
 </p>
+<p align="center">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
