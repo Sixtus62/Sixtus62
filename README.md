@@ -20,3 +20,10 @@ I'm excited to meet and network with like minds, collaborate on meaningful proje
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed7100&theme=black-ice&background=000000&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
+## 🛠 Tech Stack
+☁️ Cloud Platforms
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
