@@ -20,4 +20,7 @@ I'm excited to meet and network with like minds, collaborate on meaningful proje
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed7100&theme=black-ice&background=000000&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
+🚀Featured Projects
+Infrastructure Automation Toolkit
+![Project Screenshot](https://via.placeholder.com/400x200/000000/00ffff?text=Infra+Automation)
 
