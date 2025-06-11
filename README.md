@@ -1,6 +1,7 @@
 ## Hi there 👋
 My name is Sixtus Okoro from Nigeria 🇳🇬. 
-An Electrical Electronic Engineer currently advancing my expertise in cloud security and Devops Engineering through training, Mentorship and hands on project building. ☁️ 💻 🛜 
+
+I am an Electrical Electronic Engineer currently advancing my expertise in cloud security and Devops Engineering through training, Mentorship and hands on project building. ☁️ 💻 🛜 
 
 I'm excited to meet and network with like minds, collaborate on meaningful projects and geek about IT and emerging technologies.
 
